@@ -10,4 +10,4 @@
 
 This is an example of a GitHub repository.
 
-Nice - Arn!!!!!!!!
+Nice - Arn
